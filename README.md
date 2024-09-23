@@ -110,10 +110,12 @@
 <P align= "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" ></P> 
 
 ### Spotify Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vs3udkvz3z4ztgmnjwcfgemayq)
+
+
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vs3udkvz3z4ztgmnjwcfgemayq)
 ---
 <P align= "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" /> 
  <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" /> </P> 

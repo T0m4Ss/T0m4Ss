@@ -20,7 +20,7 @@
  
 
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+## Skills ✌️
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -89,7 +89,7 @@
   ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
+## My Statistics 🗿
 
 <table align="center">
 <tr border="none">
@@ -110,11 +110,13 @@
 <P align= "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" ></P> 
 
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vs3udkvz3z4ztgmnjwcfgemayq)
-
 
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vs3udkvz3z4ztgmnjwcfgemayq)
+
 
 ---
 <P align= "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" /> 

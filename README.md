@@ -107,7 +107,7 @@
 </tr>
 </table>
 
-<img aling="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" >
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" >
 
 ### Spotify Playing 🎧
 
@@ -115,8 +115,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vs3udkvz3z4ztgmnjwcfgemayq)
 ---
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T0m4Ss&layout=compact&theme=gruvbox&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
 

@@ -111,12 +111,9 @@
 
 ### Spotify Playing 🎧
 
-
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vs3udkvz3z4ztgmnjwcfgemayq)
-
 
 ---
 <P align= "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" /> 
